@@ -79,6 +79,7 @@ void ComputeFoo(absl::string_view suffix) {
 
 ## Function Names
 Regular functions have mixed case; accessors and mutators may be named like variables.
+
 Ordinarily, functions should start with a capital letter and have a capital letter for each new word.
 ``` cpp
 AddTableEntry()
@@ -86,6 +87,7 @@ DeleteUrl()
 OpenFileOrDie()
 ```
 (The same naming rule applies to class- and namespace-scope constants that are exposed as part of an API and that are intended to look like functions, because the fact that they're objects rather than functions is an unimportant implementation detail.)
+
 Accessors and mutators (get and set functions) may be named like variables. These often correspond to actual member variables, but this is not required. For example, int count() and void set_count(int count).
 
 
@@ -106,6 +108,7 @@ enum class UrlTableError {
 
 ## Macro Names
 You're not really going to define a macro, are you? If you do, they're like this: MY_MACRO_THAT_SCARES_SMALL_CHILDREN_AND_ADULTS_ALIKE.
+
 Please see the description of macros; in general macros should not be used. However, if they are absolutely needed, then they should be named with all capitals and underscores, and with a project-specific prefix.
 ``` cpp
 #define MYPROJECT_ROUND(x) ...
@@ -119,6 +122,7 @@ Please see the description of macros; in general macros should not be used. Howe
 
 ## TODO Comments
 Use TODO comments for code that is temporary, a short-term solution, or good-enough but not perfect.
+
 TODOs should include the string TODO in all caps, followed by the bug ID, name, e-mail address, or other identifier of the person or issue with the best context about the problem referenced by the TODO.
 ``` cpp
 // TODO: bug 12345678 - Remove this after the 2047q4 compatibility window expires.
