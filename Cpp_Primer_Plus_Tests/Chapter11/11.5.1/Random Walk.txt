@@ -1,0 +1,924 @@
+
+Step1: From:(0, 0), walk(-4.6679, 1.79184), to(-4.6679, 1.79184). Whole distance travelled:5
+
+Step2: From:(-4.6679, 1.79184), walk(4.53154, 2.11309), to(-0.136363, 3.90493). Whole distance travelled:3.90731
+
+Step3: From:(-0.136363, 3.90493), walk(4.98782, -0.348782), to(4.85146, 3.55615). Whole distance travelled:6.01522
+
+Step4: From:(4.85146, 3.55615), walk(-4.87185, -1.12476), to(-0.0203933, 2.43139). Whole distance travelled:2.43148
+
+Step5: From:(-0.0203933, 2.43139), walk(1.54508, -4.75528), to(1.52469, -2.32389). Whole distance travelled:2.77941
+
+Step6: From:(1.52469, -2.32389), walk(4.19335, -2.7232), to(5.71804, -5.04708). Whole distance travelled:7.62687
+
+Step7: From:(5.71804, -5.04708), walk(3.71572, -3.34565), to(9.43377, -8.39274). Whole distance travelled:12.6267
+
+Step8: From:(9.43377, -8.39274), walk(0.868241, -4.92404), to(10.302, -13.3168). Whole distance travelled:16.8365
+
+Step9: From:(10.302, -13.3168), walk(2.11309, 4.53154), to(12.4151, -8.78524). Whole distance travelled:15.209
+
+Step10: From:(12.4151, -8.78524), walk(2.34736, -4.41474), to(14.7625, -13.2). Whole distance travelled:19.8033
+
+Step11: From:(14.7625, -13.2), walk(-0.348782, -4.98782), to(14.4137, -18.1878). Whole distance travelled:23.2067
+
+Step12: From:(14.4137, -18.1878), walk(4.3731, -2.42405), to(18.7868, -20.6118). Whole distance travelled:27.8889
+
+Step13: From:(18.7868, -20.6118), walk(-1.20961, -4.85148), to(17.5772, -25.4633). Whole distance travelled:30.9409
+
+Step14: From:(17.5772, -25.4633), walk(-1.46186, -4.78152), to(16.1153, -30.2448). Whole distance travelled:34.2703
+
+Step15: From:(16.1153, -30.2448), walk(-2.93893, 4.04508), to(13.1764, -26.1998). Whole distance travelled:29.3265
+
+Step16: From:(13.1764, -26.1998), walk(-1.12476, -4.87185), to(12.0516, -31.0716). Whole distance travelled:33.327
+
+Step17: From:(12.0516, -31.0716), walk(-1.79184, 4.6679), to(10.2598, -26.4037). Whole distance travelled:28.327
+
+Step18: From:(10.2598, -26.4037), walk(-4.80631, -1.37819), to(5.45348, -27.7819). Whole distance travelled:28.3121
+
+Step19: From:(5.45348, -27.7819), walk(3.88573, -3.1466), to(9.33921, -30.9285). Whole distance travelled:32.3078
+
+Step20: From:(9.33921, -30.9285), walk(4.95134, 0.695866), to(14.2905, -30.2326). Whole distance travelled:33.44
+
+Step21: From:(14.2905, -30.2326), walk(1.54508, 4.75528), to(15.8356, -25.4773). Whole distance travelled:29.9977
+
+Step22: From:(15.8356, -25.4773), walk(4.99924, 0.087262), to(20.8349, -25.3901). Whole distance travelled:32.8443
+
+Step23: From:(20.8349, -25.3901), walk(-4.98782, -0.348782), to(15.8471, -25.7389). Whole distance travelled:30.2261
+
+Step24: From:(15.8471, -25.7389), walk(0.435779, 4.98097), to(16.2828, -20.7579). Whole distance travelled:26.3822
+
+Step25: From:(16.2828, -20.7579), walk(-1.95366, 4.60252), to(14.3292, -16.1554). Whole distance travelled:21.5945
+
+Step26: From:(14.3292, -16.1554), walk(4.33013, -2.5), to(18.6593, -18.6554). Whole distance travelled:26.3855
+
+Step27: From:(18.6593, -18.6554), walk(-5, 6.12323e-16), to(13.6593, -18.6554). Whole distance travelled:23.1214
+
+Step28: From:(13.6593, -18.6554), walk(-4.85148, 1.20961), to(8.80782, -17.4458). Whole distance travelled:19.5431
+
+Step29: From:(8.80782, -17.4458), walk(3.00908, 3.99318), to(11.8169, -13.4526). Whole distance travelled:17.9056
+
+Step30: From:(11.8169, -13.4526), walk(2.42405, -4.3731), to(14.2409, -17.8257). Whole distance travelled:22.8158
+
+Step31: From:(14.2409, -17.8257), walk(-4.90814, 0.954045), to(9.33281, -16.8716). Whole distance travelled:19.2809
+
+Step32: From:(9.33281, -16.8716), walk(4.33013, 2.5), to(13.6629, -14.3716). Whole distance travelled:19.8298
+
+Step33: From:(13.6629, -14.3716), walk(-3.2803, 3.77355), to(10.3826, -10.5981). Whole distance travelled:14.8364
+
+Step34: From:(10.3826, -10.5981), walk(-4.99924, 0.087262), to(5.3834, -10.5108). Whole distance travelled:11.8093
+
+Step35: From:(5.3834, -10.5108), walk(4.69846, -1.7101), to(10.0819, -12.2209). Whole distance travelled:15.8428
+
+Step36: From:(10.0819, -12.2209), walk(4.99315, 0.26168), to(15.075, -11.9592). Whole distance travelled:19.2427
+
+Step37: From:(15.075, -11.9592), walk(-2.6496, -4.24024), to(12.4254, -16.1995). Whole distance travelled:20.416
+
+Step38: From:(12.4254, -16.1995), walk(4.90814, -0.954045), to(17.3336, -17.1535). Whole distance travelled:24.3864
+
+Step39: From:(17.3336, -17.1535), walk(0.782172, -4.93844), to(18.1157, -22.092). Whole distance travelled:28.5698
+
+Step40: From:(18.1157, -22.092), walk(4.6679, -1.79184), to(22.7836, -23.8838). Whole distance travelled:33.008
+
+Step41: From:(22.7836, -23.8838), walk(4.14519, 2.79596), to(26.9288, -21.0879). Whole distance travelled:34.2032
+
+Step42: From:(26.9288, -21.0879), walk(4.63592, -1.87303), to(31.5647, -22.9609). Whole distance travelled:39.0325
+
+Step43: From:(31.5647, -22.9609), walk(3.71572, -3.34565), to(35.2805, -26.3065). Whole distance travelled:44.0085
+
+Step44: From:(35.2805, -26.3065), walk(-1.2941, -4.82963), to(33.9864, -31.1362). Whole distance travelled:46.0927
+
+Step45: From:(33.9864, -31.1362), walk(-4.80631, 1.37819), to(29.1801, -29.758). Whole distance travelled:41.6775
+
+Step46: From:(29.1801, -29.758), walk(0.782172, 4.93844), to(29.9622, -24.8195). Whole distance travelled:38.9069
+
+Step47: From:(29.9622, -24.8195), walk(-1.54508, 4.75528), to(28.4171, -20.0643). Whole distance travelled:34.7866
+
+Step48: From:(28.4171, -20.0643), walk(-4.45503, 2.26995), to(23.9621, -17.7943). Whole distance travelled:29.8466
+
+Step49: From:(23.9621, -17.7943), walk(2.79596, -4.14519), to(26.7581, -21.9395). Whole distance travelled:34.6025
+
+Step50: From:(26.7581, -21.9395), walk(-4.87185, 1.12476), to(21.8862, -20.8147). Whole distance travelled:30.2036
+
+Step51: From:(21.8862, -20.8147), walk(4.49397, 2.19186), to(26.3802, -18.6229). Whole distance travelled:32.2913
+
+Step52: From:(26.3802, -18.6229), walk(-2.11309, -4.53154), to(24.2671, -23.1544). Whole distance travelled:33.5413
+
+Step53: From:(24.2671, -23.1544), walk(-3.07831, -3.94005), to(21.1888, -27.0945). Whole distance travelled:34.3959
+
+Step54: From:(21.1888, -27.0945), walk(4.60252, -1.95366), to(25.7913, -29.0481). Whole distance travelled:38.8457
+
+Step55: From:(25.7913, -29.0481), walk(4.72759, 1.62784), to(30.5189, -27.4203). Whole distance travelled:41.0277
+
+Step56: From:(30.5189, -27.4203), walk(3.00908, -3.99318), to(33.528, -31.4135). Whole distance travelled:45.9449
+
+Step57: From:(33.528, -31.4135), walk(-1.62784, -4.72759), to(31.9001, -36.1411). Whole distance travelled:48.2058
+
+Step58: From:(31.9001, -36.1411), walk(-1.79184, 4.6679), to(30.1083, -31.4732). Whole distance travelled:43.5554
+
+Step59: From:(30.1083, -31.4732), walk(-0.348782, 4.98782), to(29.7595, -26.4853). Whole distance travelled:39.8385
+
+Step60: From:(29.7595, -26.4853), walk(-2.79596, -4.14519), to(26.9636, -30.6305). Whole distance travelled:40.8076
+
+Step61: From:(26.9636, -30.6305), walk(-3.47329, -3.5967), to(23.4903, -34.2272). Whole distance travelled:41.5126
+
+Step62: From:(23.4903, -34.2272), walk(-4.28584, -2.57519), to(19.2044, -36.8024). Whole distance travelled:41.5118
+
+Step63: From:(19.2044, -36.8024), walk(3.77355, -3.2803), to(22.978, -40.0827). Whole distance travelled:46.2019
+
+Step64: From:(22.978, -40.0827), walk(-1.7101, 4.69846), to(21.2679, -35.3842). Whole distance travelled:41.284
+
+Step65: From:(21.2679, -35.3842), walk(4.85148, 1.20961), to(26.1194, -34.1746). Whole distance travelled:43.0131
+
+Step66: From:(26.1194, -34.1746), walk(-1.12476, -4.87185), to(24.9946, -39.0465). Whole distance travelled:46.3612
+
+Step67: From:(24.9946, -39.0465), walk(-0.348782, -4.98782), to(24.6458, -44.0343). Whole distance travelled:50.4622
+
+Step68: From:(24.6458, -44.0343), walk(-4.60252, 1.95366), to(20.0433, -42.0807). Whole distance travelled:46.6102
+
+Step69: From:(20.0433, -42.0807), walk(2.86788, -4.09576), to(22.9112, -46.1764). Whole distance travelled:51.5479
+
+Step70: From:(22.9112, -46.1764), walk(4.98097, 0.435779), to(27.8922, -45.7406). Whole distance travelled:53.574
+
+Step71: From:(27.8922, -45.7406), walk(4.98782, -0.348782), to(32.88, -46.0894). Whole distance travelled:56.6156
+
+Step72: From:(32.88, -46.0894), walk(-3.5967, 3.47329), to(29.2833, -42.6161). Whole distance travelled:51.7073
+
+Step73: From:(29.2833, -42.6161), walk(2.42405, 4.3731), to(31.7073, -38.243). Whole distance travelled:49.6778
+
+Step74: From:(31.7073, -38.243), walk(4.69846, -1.7101), to(36.4058, -39.9531). Whole distance travelled:54.0521
+
+Step75: From:(36.4058, -39.9531), walk(-2.6496, 4.24024), to(33.7562, -35.7129). Whole distance travelled:49.1415
+
+Step76: From:(33.7562, -35.7129), walk(-3.88573, -3.1466), to(29.8705, -38.8595). Whole distance travelled:49.0133
+
+Step77: From:(29.8705, -38.8595), walk(-4.95134, -0.695866), to(24.9191, -39.5554). Whole distance travelled:46.7503
+
+Step78: From:(24.9191, -39.5554), walk(-4.45503, 2.26995), to(20.4641, -37.2854). Whole distance travelled:42.5321
+
+Step79: From:(20.4641, -37.2854), walk(5, -1.22465e-15), to(25.4641, -37.2854). Whole distance travelled:45.1511
+
+Step80: From:(25.4641, -37.2854), walk(-4.45503, 2.26995), to(21.0091, -35.0154). Whole distance travelled:40.8346
+
+Step81: From:(21.0091, -35.0154), walk(0.695866, 4.95134), to(21.7049, -30.0641). Whole distance travelled:37.0804
+
+Step82: From:(21.7049, -30.0641), walk(-4.75528, 1.54508), to(16.9496, -28.519). Whole distance travelled:33.1757
+
+Step83: From:(16.9496, -28.519), walk(-3.65677, -3.40999), to(13.2929, -31.929). Whole distance travelled:34.5856
+
+Step84: From:(13.2929, -31.929), walk(-0.522642, -4.97261), to(12.7702, -36.9016). Whole distance travelled:39.0488
+
+Step85: From:(12.7702, -36.9016), walk(-2.7232, -4.19335), to(10.047, -41.095). Whole distance travelled:42.3053
+
+Step86: From:(10.047, -41.095), walk(-2.03368, 4.56773), to(8.01335, -36.5272). Whole distance travelled:37.3959
+
+Step87: From:(8.01335, -36.5272), walk(0.26168, -4.99315), to(8.27503, -41.5204). Whole distance travelled:42.337
+
+Step88: From:(8.27503, -41.5204), walk(0.609347, 4.96273), to(8.88437, -36.5577). Whole distance travelled:37.6217
+
+Step89: From:(8.88437, -36.5577), walk(-1.03956, -4.89074), to(7.84481, -41.4484). Whole distance travelled:42.1843
+
+Step90: From:(7.84481, -41.4484), walk(4.69846, 1.7101), to(12.5433, -39.7383). Whole distance travelled:41.6709
+
+Step91: From:(12.5433, -39.7383), walk(1.03956, 4.89074), to(13.5828, -34.8476). Whole distance travelled:37.4012
+
+Step92: From:(13.5828, -34.8476), walk(-4.49397, -2.19186), to(9.08887, -37.0394). Whole distance travelled:38.1383
+
+Step93: From:(9.08887, -37.0394), walk(4.99695, -0.174497), to(14.0858, -37.2139). Whole distance travelled:39.7905
+
+Step94: From:(14.0858, -37.2139), walk(4.09576, 2.86788), to(18.1816, -34.346). Whole distance travelled:38.8615
+
+Step95: From:(18.1816, -34.346), walk(4.04508, 2.93893), to(22.2267, -31.4071). Whole distance travelled:38.4764
+
+Step96: From:(22.2267, -31.4071), walk(-3.83022, -3.21394), to(18.3964, -34.621). Whole distance travelled:39.2052
+
+Step97: From:(18.3964, -34.621), walk(3.83022, 3.21394), to(22.2267, -31.4071). Whole distance travelled:38.4764
+
+Step98: From:(22.2267, -31.4071), walk(-4.33013, 2.5), to(17.8965, -28.9071). Whole distance travelled:33.9986
+
+Step99: From:(17.8965, -28.9071), walk(0.868241, 4.92404), to(18.7648, -23.9831). Whole distance travelled:30.4517
+
+Step100: From:(18.7648, -23.9831), walk(0.174497, -4.99695), to(18.9393, -28.98). Whole distance travelled:34.6199
+
+Step101: From:(18.9393, -28.98), walk(4.93844, -0.782172), to(23.8777, -29.7622). Whole distance travelled:38.1567
+
+Step102: From:(23.8777, -29.7622), walk(2.79596, -4.14519), to(26.6737, -33.9074). Whole distance travelled:43.1416
+
+Step103: From:(26.6737, -33.9074), walk(4.69846, -1.7101), to(31.3721, -35.6175). Whole distance travelled:47.4638
+
+Step104: From:(31.3721, -35.6175), walk(4.60252, -1.95366), to(35.9747, -37.5711). Whole distance travelled:52.017
+
+Step105: From:(35.9747, -37.5711), walk(-2.5, 4.33013), to(33.4747, -33.241). Whole distance travelled:47.1754
+
+Step106: From:(33.4747, -33.241), walk(-4.99695, 0.174497), to(28.4777, -33.0665). Whole distance travelled:43.6391
+
+Step107: From:(28.4777, -33.0665), walk(3.99318, 3.00908), to(32.4709, -30.0574). Whole distance travelled:44.2471
+
+Step108: From:(32.4709, -30.0574), walk(-0.609347, 4.96273), to(31.8615, -25.0947). Whole distance travelled:40.5574
+
+Step109: From:(31.8615, -25.0947), walk(-4.72759, 1.62784), to(27.134, -23.4669). Whole distance travelled:35.874
+
+Step110: From:(27.134, -23.4669), walk(-4.89074, -1.03956), to(22.2432, -24.5064). Whole distance travelled:33.0957
+
+Step111: From:(22.2432, -24.5064), walk(4.53154, -2.11309), to(26.7748, -26.6195). Whole distance travelled:37.7556
+
+Step112: From:(26.7748, -26.6195), walk(4.97261, 0.522642), to(31.7474, -26.0969). Whole distance travelled:41.0967
+
+Step113: From:(31.7474, -26.0969), walk(-4.6679, 1.79184), to(27.0795, -24.305). Whole distance travelled:36.3873
+
+Step114: From:(27.0795, -24.305), walk(3.21394, 3.83022), to(30.2934, -20.4748). Whole distance travelled:36.5638
+
+Step115: From:(30.2934, -20.4748), walk(-3.99318, 3.00908), to(26.3002, -17.4657). Whole distance travelled:31.5714
+
+Step116: From:(26.3002, -17.4657), walk(4.90814, 0.954045), to(31.2084, -16.5117). Whole distance travelled:35.3072
+
+Step117: From:(31.2084, -16.5117), walk(2.19186, -4.49397), to(33.4002, -21.0057). Whole distance travelled:39.4565
+
+Step118: From:(33.4002, -21.0057), walk(-3.88573, 3.1466), to(29.5145, -17.8591). Whole distance travelled:34.4971
+
+Step119: From:(29.5145, -17.8591), walk(-3.34565, 3.71572), to(26.1688, -14.1433). Whole distance travelled:29.7463
+
+Step120: From:(26.1688, -14.1433), walk(-4.6679, -1.79184), to(21.5009, -15.9352). Whole distance travelled:26.7623
+
+Step121: From:(21.5009, -15.9352), walk(4.89074, -1.03956), to(26.3917, -16.9747). Whole distance travelled:31.3793
+
+Step122: From:(26.3917, -16.9747), walk(4.93844, -0.782172), to(31.3301, -17.7569). Whole distance travelled:36.0123
+
+Step123: From:(31.3301, -17.7569), walk(-0.087262, 4.99924), to(31.2428, -12.7577). Whole distance travelled:33.7472
+
+Step124: From:(31.2428, -12.7577), walk(2.19186, 4.49397), to(33.4347, -8.2637). Whole distance travelled:34.4408
+
+Step125: From:(33.4347, -8.2637), walk(2.86788, 4.09576), to(36.3026, -4.16794). Whole distance travelled:36.5411
+
+Step126: From:(36.3026, -4.16794), walk(-1.62784, 4.72759), to(34.6747, 0.559651). Whole distance travelled:34.6793
+
+Step127: From:(34.6747, 0.559651), walk(-2.57519, 4.28584), to(32.0996, 4.84549). Whole distance travelled:32.4632
+
+Step128: From:(32.0996, 4.84549), walk(-4.41474, -2.34736), to(27.6848, 2.49813). Whole distance travelled:27.7973
+
+Step129: From:(27.6848, 2.49813), walk(4.6679, 1.79184), to(32.3527, 4.28997). Whole distance travelled:32.6359
+
+Step130: From:(32.3527, 4.28997), walk(-9.18485e-16, -5), to(32.3527, -0.71003). Whole distance travelled:32.3605
+
+Step131: From:(32.3527, -0.71003), walk(-1.20961, 4.85148), to(31.1431, 4.14145). Whole distance travelled:31.4173
+
+Step132: From:(31.1431, 4.14145), walk(-1.37819, 4.80631), to(29.7649, 8.94776). Whole distance travelled:31.0807
+
+Step133: From:(29.7649, 8.94776), walk(-3.99318, -3.00908), to(25.7717, 5.93868). Whole distance travelled:26.4471
+
+Step134: From:(25.7717, 5.93868), walk(-2.5, -4.33013), to(23.2717, 1.60855). Whole distance travelled:23.3273
+
+Step135: From:(23.2717, 1.60855), walk(-1.37819, -4.80631), to(21.8936, -3.19775). Whole distance travelled:22.1259
+
+Step136: From:(21.8936, -3.19775), walk(-1.7101, -4.69846), to(20.1835, -7.89622). Whole distance travelled:21.6731
+
+Step137: From:(20.1835, -7.89622), walk(-1.20961, -4.85148), to(18.9738, -12.7477). Whole distance travelled:22.8585
+
+Step138: From:(18.9738, -12.7477), walk(4.98782, -0.348782), to(23.9617, -13.0965). Whole distance travelled:27.3071
+
+Step139: From:(23.9617, -13.0965), walk(4.98097, -0.435779), to(28.9426, -13.5323). Whole distance travelled:31.9499
+
+Step140: From:(28.9426, -13.5323), walk(2.19186, -4.49397), to(31.1345, -18.0262). Whole distance travelled:35.9764
+
+Step141: From:(31.1345, -18.0262), walk(4.98097, -0.435779), to(36.1155, -18.462). Whole distance travelled:40.5607
+
+Step142: From:(36.1155, -18.462), walk(-4.69846, 1.7101), to(31.417, -16.7519). Whole distance travelled:35.6041
+
+Step143: From:(31.417, -16.7519), walk(1.54508, 4.75528), to(32.9621, -11.9966). Whole distance travelled:35.0773
+
+Step144: From:(32.9621, -11.9966), walk(1.20961, -4.85148), to(34.1717, -16.8481). Whole distance travelled:38.0994
+
+Step145: From:(34.1717, -16.8481), walk(-4.93844, -0.782172), to(29.2333, -17.6303). Whole distance travelled:34.1381
+
+Step146: From:(29.2333, -17.6303), walk(1.46186, -4.78152), to(30.6951, -22.4118). Whole distance travelled:38.0063
+
+Step147: From:(30.6951, -22.4118), walk(4.75528, 1.54508), to(35.4504, -20.8667). Whole distance travelled:41.1358
+
+Step148: From:(35.4504, -20.8667), walk(-1.7101, 4.69846), to(33.7403, -16.1682). Whole distance travelled:37.4142
+
+Step149: From:(33.7403, -16.1682), walk(-4.97261, 0.522642), to(28.7677, -15.6456). Whole distance travelled:32.747
+
+Step150: From:(28.7677, -15.6456), walk(4.14519, 2.79596), to(32.9129, -12.8496). Whole distance travelled:35.3323
+
+Step151: From:(32.9129, -12.8496), walk(4.99315, 0.26168), to(37.906, -12.588). Whole distance travelled:39.9415
+
+Step152: From:(37.906, -12.588), walk(-4.63592, 1.87303), to(33.2701, -10.7149). Whole distance travelled:34.953
+
+Step153: From:(33.2701, -10.7149), walk(-1.03956, -4.89074), to(32.2305, -15.6057). Whole distance travelled:35.8098
+
+Step154: From:(32.2305, -15.6057), walk(4.89074, 1.03956), to(37.1213, -14.5661). Whole distance travelled:39.8768
+
+Step155: From:(37.1213, -14.5661), walk(0.609347, -4.96273), to(37.7306, -19.5288). Whole distance travelled:42.485
+
+Step156: From:(37.7306, -19.5288), walk(0.174497, 4.99695), to(37.9051, -14.5319). Whole distance travelled:40.5953
+
+Step157: From:(37.9051, -14.5319), walk(3.47329, -3.5967), to(41.3784, -18.1286). Whole distance travelled:45.1754
+
+Step158: From:(41.3784, -18.1286), walk(1.2941, 4.82963), to(42.6725, -13.299). Whole distance travelled:44.6968
+
+Step159: From:(42.6725, -13.299), walk(-4.53154, -2.11309), to(38.141, -15.412). Whole distance travelled:41.1372
+
+Step160: From:(38.141, -15.412), walk(-4.78152, -1.46186), to(33.3595, -16.8739). Whole distance travelled:37.3842
+
+Step161: From:(33.3595, -16.8739), walk(0.26168, 4.99315), to(33.6211, -11.8808). Whole distance travelled:35.6586
+
+Step162: From:(33.6211, -11.8808), walk(-4.72759, 1.62784), to(28.8935, -10.2529). Whole distance travelled:30.6588
+
+Step163: From:(28.8935, -10.2529), walk(1.95366, 4.60252), to(30.8472, -5.65039). Whole distance travelled:31.3604
+
+Step164: From:(30.8472, -5.65039), walk(0.782172, 4.93844), to(31.6294, -0.711951). Whole distance travelled:31.6374
+
+Step165: From:(31.6294, -0.711951), walk(-3.99318, -3.00908), to(27.6362, -3.72103). Whole distance travelled:27.8856
+
+Step166: From:(27.6362, -3.72103), walk(1.37819, 4.80631), to(29.0144, 1.08528). Whole distance travelled:29.0347
+
+Step167: From:(29.0144, 1.08528), walk(-4.80631, 1.37819), to(24.2081, 2.46347). Whole distance travelled:24.3331
+
+Step168: From:(24.2081, 2.46347), walk(-4.89074, 1.03956), to(19.3173, 3.50303). Whole distance travelled:19.6324
+
+Step169: From:(19.3173, 3.50303), walk(3.77355, -3.2803), to(23.0909, 0.222733). Whole distance travelled:23.092
+
+Step170: From:(23.0909, 0.222733), walk(4.69846, 1.7101), to(27.7893, 1.93283). Whole distance travelled:27.8565
+
+Step171: From:(27.7893, 1.93283), walk(3.00908, -3.99318), to(30.7984, -2.06034). Whole distance travelled:30.8673
+
+Step172: From:(30.7984, -2.06034), walk(3.07831, 3.94005), to(33.8767, 1.87971). Whole distance travelled:33.9288
+
+Step173: From:(33.8767, 1.87971), walk(-2.03368, -4.56773), to(31.843, -2.68802). Whole distance travelled:31.9563
+
+Step174: From:(31.843, -2.68802), walk(3.99318, -3.00908), to(35.8362, -5.69709). Whole distance travelled:36.2862
+
+Step175: From:(35.8362, -5.69709), walk(-2.79596, 4.14519), to(33.0403, -1.55191). Whole distance travelled:33.0767
+
+Step176: From:(33.0403, -1.55191), walk(3.06162e-16, 5), to(33.0403, 3.44809). Whole distance travelled:33.2197
+
+Step177: From:(33.0403, 3.44809), walk(1.54508, 4.75528), to(34.5853, 8.20338). Whole distance travelled:35.5449
+
+Step178: From:(34.5853, 8.20338), walk(-0.954045, -4.90814), to(33.6313, 3.29524). Whole distance travelled:33.7923
+
+Step179: From:(33.6313, 3.29524), walk(2.5, -4.33013), to(36.1313, -1.03489). Whole distance travelled:36.1461
+
+Step180: From:(36.1313, -1.03489), walk(-2.79596, 4.14519), to(33.3353, 3.1103). Whole distance travelled:33.4801
+
+Step181: From:(33.3353, 3.1103), walk(4.53154, 2.11309), to(37.8669, 5.22339). Whole distance travelled:38.2254
+
+Step182: From:(37.8669, 5.22339), walk(4.90814, -0.954045), to(42.775, 4.26935). Whole distance travelled:42.9875
+
+Step183: From:(42.775, 4.26935), walk(4.04508, 2.93893), to(46.8201, 7.20828). Whole distance travelled:47.3717
+
+Step184: From:(46.8201, 7.20828), walk(0.782172, 4.93844), to(47.6023, 12.1467). Whole distance travelled:49.1276
+
+Step185: From:(47.6023, 12.1467), walk(4.98782, 0.348782), to(52.5901, 12.4955). Whole distance travelled:54.0542
+
+Step186: From:(52.5901, 12.4955), walk(-2.57519, -4.28584), to(50.0149, 8.20966). Whole distance travelled:50.6842
+
+Step187: From:(50.0149, 8.20966), walk(-4.28584, -2.57519), to(45.7291, 5.63447). Whole distance travelled:46.0749
+
+Step188: From:(45.7291, 5.63447), walk(1.2941, -4.82963), to(47.0232, 0.804843). Whole distance travelled:47.03
+
+Step189: From:(47.0232, 0.804843), walk(-1.37819, 4.80631), to(45.645, 5.61115). Whole distance travelled:45.9886
+
+Step190: From:(45.645, 5.61115), walk(1.37819, -4.80631), to(47.0232, 0.804843). Whole distance travelled:47.03
+
+Step191: From:(47.0232, 0.804843), walk(4.95134, -0.695866), to(51.9745, 0.108978). Whole distance travelled:51.9746
+
+Step192: From:(51.9745, 0.108978), walk(-2.19186, 4.49397), to(49.7826, 4.60295). Whole distance travelled:49.995
+
+Step193: From:(49.7826, 4.60295), walk(-0.695866, 4.95134), to(49.0868, 9.55429). Whole distance travelled:50.008
+
+Step194: From:(49.0868, 9.55429), walk(3.77355, -3.2803), to(52.8603, 6.27399). Whole distance travelled:53.2313
+
+Step195: From:(52.8603, 6.27399), walk(2.19186, -4.49397), to(55.0522, 1.78002). Whole distance travelled:55.0809
+
+Step196: From:(55.0522, 1.78002), walk(4.53154, 2.11309), to(59.5837, 3.89311). Whole distance travelled:59.7108
+
+Step197: From:(59.5837, 3.89311), walk(4.6679, 1.79184), to(64.2516, 5.68495). Whole distance travelled:64.5026
+
+Step198: From:(64.2516, 5.68495), walk(-1.79184, 4.6679), to(62.4598, 10.3529). Whole distance travelled:63.312
+
+Step199: From:(62.4598, 10.3529), walk(4.98782, 0.348782), to(67.4476, 10.7016). Whole distance travelled:68.2913
+
+Step200: From:(67.4476, 10.7016), walk(4.95134, -0.695866), to(72.3989, 10.0058). Whole distance travelled:73.0871
+
+Step201: From:(72.3989, 10.0058), walk(4.98782, 0.348782), to(77.3868, 10.3546). Whole distance travelled:78.0764
+
+Step202: From:(77.3868, 10.3546), walk(-4.95134, -0.695866), to(72.4354, 9.65869). Whole distance travelled:73.0765
+
+Step203: From:(72.4354, 9.65869), walk(4.49397, -2.19186), to(76.9294, 7.46683). Whole distance travelled:77.2909
+
+Step204: From:(76.9294, 7.46683), walk(-4.93844, -0.782172), to(71.9909, 6.68466). Whole distance travelled:72.3006
+
+Step205: From:(71.9909, 6.68466), walk(-3.83022, -3.21394), to(68.1607, 3.47072). Whole distance travelled:68.249
+
+Step206: From:(68.1607, 3.47072), walk(1.7101, -4.69846), to(69.8708, -1.22774). Whole distance travelled:69.8816
+
+Step207: From:(69.8708, -1.22774), walk(-2.42405, -4.3731), to(67.4468, -5.60084). Whole distance travelled:67.6789
+
+Step208: From:(67.4468, -5.60084), walk(-9.18485e-16, -5), to(67.4468, -10.6008). Whole distance travelled:68.2748
+
+Step209: From:(67.4468, -10.6008), walk(-0.435779, -4.98097), to(67.011, -15.5818). Whole distance travelled:68.7987
+
+Step210: From:(67.011, -15.5818), walk(-4.75528, -1.54508), to(62.2557, -17.1269). Whole distance travelled:64.5686
+
+Step211: From:(62.2557, -17.1269), walk(-3.88573, 3.1466), to(58.37, -13.9803). Whole distance travelled:60.0209
+
+Step212: From:(58.37, -13.9803), walk(0.174497, 4.99695), to(58.5445, -8.98334). Whole distance travelled:59.2297
+
+Step213: From:(58.5445, -8.98334), walk(2.34736, 4.41474), to(60.8918, -4.5686). Whole distance travelled:61.063
+
+Step214: From:(60.8918, -4.5686), walk(4.89074, -1.03956), to(65.7826, -5.60816). Whole distance travelled:66.0212
+
+Step215: From:(65.7826, -5.60816), walk(-3.2803, -3.77355), to(62.5023, -9.38171). Whole distance travelled:63.2025
+
+Step216: From:(62.5023, -9.38171), walk(-0.695866, 4.95134), to(61.8064, -4.43037). Whole distance travelled:61.965
+
+Step217: From:(61.8064, -4.43037), walk(-4.78152, -1.46186), to(57.0249, -5.89223). Whole distance travelled:57.3285
+
+Step218: From:(57.0249, -5.89223), walk(-1.20961, 4.85148), to(55.8153, -1.04075). Whole distance travelled:55.825
+
+Step219: From:(55.8153, -1.04075), walk(4.09576, -2.86788), to(59.911, -3.90863). Whole distance travelled:60.0384
+
+Step220: From:(59.911, -3.90863), walk(2.19186, -4.49397), to(62.1029, -8.4026). Whole distance travelled:62.6688
+
+Step221: From:(62.1029, -8.4026), walk(-2.79596, 4.14519), to(59.3069, -4.25741). Whole distance travelled:59.4596
+
+Step222: From:(59.3069, -4.25741), walk(-3.40999, 3.65677), to(55.8969, -0.600644). Whole distance travelled:55.9002
+
+Step223: From:(55.8969, -0.600644), walk(-2.26995, -4.45503), to(53.627, -5.05568). Whole distance travelled:53.8648
+
+Step224: From:(53.627, -5.05568), walk(4.80631, 1.37819), to(58.4333, -3.67749). Whole distance travelled:58.5489
+
+Step225: From:(58.4333, -3.67749), walk(-4.82963, 1.2941), to(53.6037, -2.38339). Whole distance travelled:53.6566
+
+Step226: From:(53.6037, -2.38339), walk(3.77355, 3.2803), to(57.3772, 0.8969). Whole distance travelled:57.3842
+
+Step227: From:(57.3772, 0.8969), walk(-4.92404, 0.868241), to(52.4532, 1.76514). Whole distance travelled:52.4829
+
+Step228: From:(52.4532, 1.76514), walk(-4.72759, -1.62784), to(47.7256, 0.1373). Whole distance travelled:47.7258
+
+Step229: From:(47.7256, 0.1373), walk(-4.60252, 1.95366), to(43.1231, 2.09096). Whole distance travelled:43.1737
+
+Step230: From:(43.1231, 2.09096), walk(-1.87303, 4.63592), to(41.25, 6.72688). Whole distance travelled:41.7949
+
+Step231: From:(41.25, 6.72688), walk(3.88573, -3.1466), to(45.1358, 3.58027). Whole distance travelled:45.2775
+
+Step232: From:(45.1358, 3.58027), walk(2.34736, 4.41474), to(47.4831, 7.99501). Whole distance travelled:48.1515
+
+Step233: From:(47.4831, 7.99501), walk(-0.695866, 4.95134), to(46.7873, 12.9464). Whole distance travelled:48.5454
+
+Step234: From:(46.7873, 12.9464), walk(0.26168, 4.99315), to(47.0489, 17.9395). Whole distance travelled:50.353
+
+Step235: From:(47.0489, 17.9395), walk(-4.04508, -2.93893), to(43.0038, 15.0006). Whole distance travelled:45.545
+
+Step236: From:(43.0038, 15.0006), walk(4.93844, 0.782172), to(47.9423, 15.7827). Whole distance travelled:50.4733
+
+Step237: From:(47.9423, 15.7827), walk(-4.69846, -1.7101), to(43.2438, 14.0726). Whole distance travelled:45.476
+
+Step238: From:(43.2438, 14.0726), walk(1.20961, -4.85148), to(44.4534, 9.22117). Whole distance travelled:45.3998
+
+Step239: From:(44.4534, 9.22117), walk(-4.24024, -2.6496), to(40.2132, 6.57157). Whole distance travelled:40.7466
+
+Step240: From:(40.2132, 6.57157), walk(3.00908, -3.99318), to(43.2223, 2.57839). Whole distance travelled:43.2991
+
+Step241: From:(43.2223, 2.57839), walk(4.14519, 2.79596), to(47.3675, 5.37436). Whole distance travelled:47.6714
+
+Step242: From:(47.3675, 5.37436), walk(-0.522642, -4.97261), to(46.8448, 0.401747). Whole distance travelled:46.8465
+
+Step243: From:(46.8448, 0.401747), walk(-1.62784, 4.72759), to(45.217, 5.12934). Whole distance travelled:45.507
+
+Step244: From:(45.217, 5.12934), walk(-3.47329, -3.5967), to(41.7437, 1.53264). Whole distance travelled:41.7718
+
+Step245: From:(41.7437, 1.53264), walk(-4.14519, -2.79596), to(37.5985, -1.26332). Whole distance travelled:37.6197
+
+Step246: From:(37.5985, -1.26332), walk(0.609347, -4.96273), to(38.2078, -6.22605). Whole distance travelled:38.7118
+
+Step247: From:(38.2078, -6.22605), walk(-3.21394, -3.83022), to(34.9939, -10.0563). Whole distance travelled:36.4102
+
+Step248: From:(34.9939, -10.0563), walk(-4.04508, 2.93893), to(30.9488, -7.11735). Whole distance travelled:31.7567
+
+Step249: From:(30.9488, -7.11735), walk(4.72759, 1.62784), to(35.6764, -5.48951). Whole distance travelled:36.0963
+
+Step250: From:(35.6764, -5.48951), walk(0.868241, -4.92404), to(36.5447, -10.4135). Whole distance travelled:37.9994
+
+Step251: From:(36.5447, -10.4135), walk(-2.34736, -4.41474), to(34.1973, -14.8283). Whole distance travelled:37.2738
+
+Step252: From:(34.1973, -14.8283), walk(3.53553, 3.53553), to(37.7328, -11.2928). Whole distance travelled:39.3865
+
+Step253: From:(37.7328, -11.2928), walk(-4.49397, 2.19186), to(33.2389, -9.1009). Whole distance travelled:34.4623
+
+Step254: From:(33.2389, -9.1009), walk(4.75528, 1.54508), to(37.9941, -7.55581). Whole distance travelled:38.7382
+
+Step255: From:(37.9941, -7.55581), walk(4.93844, 0.782172), to(42.9326, -6.77364). Whole distance travelled:43.4636
+
+Step256: From:(42.9326, -6.77364), walk(-0.522642, -4.97261), to(42.4099, -11.7462). Whole distance travelled:44.0066
+
+Step257: From:(42.4099, -11.7462), walk(2.42405, 4.3731), to(44.834, -7.37315). Whole distance travelled:45.4362
+
+Step258: From:(44.834, -7.37315), walk(3.65677, 3.40999), to(48.4908, -3.96316). Whole distance travelled:48.6524
+
+Step259: From:(48.4908, -3.96316), walk(-4.19335, -2.7232), to(44.2974, -6.68635). Whole distance travelled:44.7992
+
+Step260: From:(44.2974, -6.68635), walk(-0.435779, 4.98097), to(43.8616, -1.70538). Whole distance travelled:43.8948
+
+Step261: From:(43.8616, -1.70538), walk(-4.14519, -2.79596), to(39.7164, -4.50134). Whole distance travelled:39.9707
+
+Step262: From:(39.7164, -4.50134), walk(-2.26995, -4.45503), to(37.4465, -8.95638). Whole distance travelled:38.5027
+
+Step263: From:(37.4465, -8.95638), walk(-4.45503, -2.26995), to(32.9915, -11.2263). Whole distance travelled:34.8492
+
+Step264: From:(32.9915, -11.2263), walk(4.97261, 0.522642), to(37.9641, -10.7037). Whole distance travelled:39.4441
+
+Step265: From:(37.9641, -10.7037), walk(4.53154, 2.11309), to(42.4956, -8.5906). Whole distance travelled:43.3552
+
+Step266: From:(42.4956, -8.5906), walk(-0.695866, -4.95134), to(41.7997, -13.5419). Whole distance travelled:43.9386
+
+Step267: From:(41.7997, -13.5419), walk(2.79596, 4.14519), to(44.5957, -9.39675). Whole distance travelled:45.5749
+
+Step268: From:(44.5957, -9.39675), walk(-4.99695, -0.174497), to(39.5987, -9.57125). Whole distance travelled:40.739
+
+Step269: From:(39.5987, -9.57125), walk(1.62784, -4.72759), to(41.2266, -14.2988). Whole distance travelled:43.6359
+
+Step270: From:(41.2266, -14.2988), walk(-2.79596, 4.14519), to(38.4306, -10.1537). Whole distance travelled:39.7493
+
+Step271: From:(38.4306, -10.1537), walk(1.46186, 4.78152), to(39.8925, -5.37213). Whole distance travelled:40.2526
+
+Step272: From:(39.8925, -5.37213), walk(3.83022, -3.21394), to(43.7227, -8.58607). Whole distance travelled:44.5578
+
+Step273: From:(43.7227, -8.58607), walk(-3.40999, 3.65677), to(40.3127, -4.9293). Whole distance travelled:40.613
+
+Step274: From:(40.3127, -4.9293), walk(-4.78152, 1.46186), to(35.5312, -3.46744). Whole distance travelled:35.7
+
+Step275: From:(35.5312, -3.46744), walk(-4.93844, 0.782172), to(30.5927, -2.68527). Whole distance travelled:30.7104
+
+Step276: From:(30.5927, -2.68527), walk(-0.522642, -4.97261), to(30.0701, -7.65788). Whole distance travelled:31.0299
+
+Step277: From:(30.0701, -7.65788), walk(4.24024, 2.6496), to(34.3103, -5.00828). Whole distance travelled:34.6739
+
+Step278: From:(34.3103, -5.00828), walk(1.79184, -4.6679), to(36.1022, -9.67618). Whole distance travelled:37.3764
+
+Step279: From:(36.1022, -9.67618), walk(-2.03368, -4.56773), to(34.0685, -14.2439). Whole distance travelled:36.9263
+
+Step280: From:(34.0685, -14.2439), walk(4.53154, -2.11309), to(38.6, -16.357). Whole distance travelled:41.9227
+
+Step281: From:(38.6, -16.357), walk(4.04508, -2.93893), to(42.6451, -19.2959). Whole distance travelled:46.8075
+
+Step282: From:(42.6451, -19.2959), walk(3.94005, -3.07831), to(46.5852, -22.3742). Whole distance travelled:51.6796
+
+Step283: From:(46.5852, -22.3742), walk(-3.83022, -3.21394), to(42.755, -25.5882). Whole distance travelled:49.8271
+
+Step284: From:(42.755, -25.5882), walk(-0.087262, 4.99924), to(42.6677, -20.5889). Whole distance travelled:47.3755
+
+Step285: From:(42.6677, -20.5889), walk(3.21394, -3.83022), to(45.8816, -24.4192). Whole distance travelled:51.9752
+
+Step286: From:(45.8816, -24.4192), walk(2.34736, 4.41474), to(48.229, -20.0044). Whole distance travelled:52.2131
+
+Step287: From:(48.229, -20.0044), walk(-4.53154, 2.11309), to(43.6974, -17.8913). Whole distance travelled:47.2183
+
+Step288: From:(43.6974, -17.8913), walk(-3.99318, -3.00908), to(39.7043, -20.9004). Whole distance travelled:44.8693
+
+Step289: From:(39.7043, -20.9004), walk(-4.96273, -0.609347), to(34.7415, -21.5097). Whole distance travelled:40.8613
+
+Step290: From:(34.7415, -21.5097), walk(4.63592, 1.87303), to(39.3775, -19.6367). Whole distance travelled:44.0021
+
+Step291: From:(39.3775, -19.6367), walk(4.89074, -1.03956), to(44.2682, -20.6763). Whole distance travelled:48.8588
+
+Step292: From:(44.2682, -20.6763), walk(3.77355, 3.2803), to(48.0417, -17.396). Whole distance travelled:51.0943
+
+Step293: From:(48.0417, -17.396), walk(-4.63592, -1.87303), to(43.4058, -19.269). Whole distance travelled:47.4906
+
+Step294: From:(43.4058, -19.269), walk(4.98782, 0.348782), to(48.3936, -18.9202). Whole distance travelled:51.9608
+
+Step295: From:(48.3936, -18.9202), walk(-0.522642, 4.97261), to(47.871, -13.9476). Whole distance travelled:49.8615
+
+Step296: From:(47.871, -13.9476), walk(-0.435779, -4.98097), to(47.4352, -18.9286). Whole distance travelled:51.0724
+
+Step297: From:(47.4352, -18.9286), walk(-4.85148, 1.20961), to(42.5837, -17.719). Whole distance travelled:46.1231
+
+Step298: From:(42.5837, -17.719), walk(-1.46186, 4.78152), to(41.1219, -12.9375). Whole distance travelled:43.109
+
+Step299: From:(41.1219, -12.9375), walk(4.53154, -2.11309), to(45.6534, -15.0506). Whole distance travelled:48.0703
+
+Step300: From:(45.6534, -15.0506), walk(-3.34565, -3.71572), to(42.3078, -18.7663). Whole distance travelled:46.2831
+
+Step301: From:(42.3078, -18.7663), walk(-4.93844, 0.782172), to(37.3693, -17.9841). Whole distance travelled:41.4716
+
+Step302: From:(37.3693, -17.9841), walk(5, -1.22465e-15), to(42.3693, -17.9841). Whole distance travelled:46.0281
+
+Step303: From:(42.3693, -17.9841), walk(-3.00908, 3.99318), to(39.3603, -13.9909). Whole distance travelled:41.7729
+
+Step304: From:(39.3603, -13.9909), walk(0.782172, -4.93844), to(40.1424, -18.9294). Whole distance travelled:44.3817
+
+Step305: From:(40.1424, -18.9294), walk(-4.80631, 1.37819), to(35.3361, -17.5512). Whole distance travelled:39.4549
+
+Step306: From:(35.3361, -17.5512), walk(-4.33013, -2.5), to(31.006, -20.0512). Whole distance travelled:36.9245
+
+Step307: From:(31.006, -20.0512), walk(0.868241, 4.92404), to(31.8742, -15.1271). Whole distance travelled:35.2817
+
+Step308: From:(31.8742, -15.1271), walk(5, 0), to(36.8742, -15.1271). Whole distance travelled:39.8565
+
+Step309: From:(36.8742, -15.1271), walk(1.37819, -4.80631), to(38.2524, -19.9334). Whole distance travelled:43.1346
+
+Step310: From:(38.2524, -19.9334), walk(4.97261, 0.522642), to(43.225, -19.4108). Whole distance travelled:47.3834
+
+Step311: From:(43.225, -19.4108), walk(2.86788, 4.09576), to(46.0929, -15.315). Whole distance travelled:48.5706
+
+Step312: From:(46.0929, -15.315), walk(-4.24024, -2.6496), to(41.8527, -17.9646). Whole distance travelled:45.5453
+
+Step313: From:(41.8527, -17.9646), walk(-3.65677, 3.40999), to(38.1959, -14.5547). Whole distance travelled:40.875
+
+Step314: From:(38.1959, -14.5547), walk(-4.69846, 1.7101), to(33.4974, -12.8446). Whole distance travelled:35.8756
+
+Step315: From:(33.4974, -12.8446), walk(2.79596, 4.14519), to(36.2934, -8.69936). Whole distance travelled:37.3214
+
+Step316: From:(36.2934, -8.69936), walk(1.7101, 4.69846), to(38.0035, -4.0009). Whole distance travelled:38.2135
+
+Step317: From:(38.0035, -4.0009), walk(-0.087262, -4.99924), to(37.9162, -9.00014). Whole distance travelled:38.9698
+
+Step318: From:(37.9162, -9.00014), walk(2.03368, 4.56773), to(39.9499, -4.43241). Whole distance travelled:40.1951
+
+Step319: From:(39.9499, -4.43241), walk(0.868241, -4.92404), to(40.8182, -9.35645). Whole distance travelled:41.8768
+
+Step320: From:(40.8182, -9.35645), walk(-2.11309, -4.53154), to(38.7051, -13.888). Whole distance travelled:41.1213
+
+Step321: From:(38.7051, -13.888), walk(-4.49397, 2.19186), to(34.2111, -11.6961). Whole distance travelled:36.1552
+
+Step322: From:(34.2111, -11.6961), walk(3.40999, -3.65677), to(37.6211, -15.3529). Whole distance travelled:40.6332
+
+Step323: From:(37.6211, -15.3529), walk(1.46186, 4.78152), to(39.083, -10.5714). Whole distance travelled:40.4874
+
+Step324: From:(39.083, -10.5714), walk(-3.83022, 3.21394), to(35.2527, -7.35744). Whole distance travelled:36.0123
+
+Step325: From:(35.2527, -7.35744), walk(-3.88573, -3.1466), to(31.367, -10.504). Whole distance travelled:33.0791
+
+Step326: From:(31.367, -10.504), walk(3.5967, 3.47329), to(34.9637, -7.03075). Whole distance travelled:35.6636
+
+Step327: From:(34.9637, -7.03075), walk(0.26168, 4.99315), to(35.2254, -2.0376). Whole distance travelled:35.2843
+
+Step328: From:(35.2254, -2.0376), walk(-3.47329, 3.5967), to(31.7521, 1.5591). Whole distance travelled:31.7903
+
+Step329: From:(31.7521, 1.5591), walk(-4.24024, 2.6496), to(27.5119, 4.20869). Whole distance travelled:27.8319
+
+Step330: From:(27.5119, 4.20869), walk(-2.03368, 4.56773), to(25.4782, 8.77642). Whole distance travelled:26.9474
+
+Step331: From:(25.4782, 8.77642), walk(-3.99318, -3.00908), to(21.485, 5.76735). Whole distance travelled:22.2456
+
+Step332: From:(21.485, 5.76735), walk(4.14519, -2.79596), to(25.6302, 2.97138). Whole distance travelled:25.8018
+
+Step333: From:(25.6302, 2.97138), walk(-4.99315, 0.26168), to(20.637, 3.23306). Whole distance travelled:20.8887
+
+Step334: From:(20.637, 3.23306), walk(4.53154, -2.11309), to(25.1686, 1.11997). Whole distance travelled:25.1935
+
+Step335: From:(25.1686, 1.11997), walk(5, -1.22465e-15), to(30.1686, 1.11997). Whole distance travelled:30.1894
+
+Step336: From:(30.1686, 1.11997), walk(-3.21394, 3.83022), to(26.9546, 4.95019). Whole distance travelled:27.4054
+
+Step337: From:(26.9546, 4.95019), walk(-4.60252, 1.95366), to(22.3521, 6.90385). Whole distance travelled:23.394
+
+Step338: From:(22.3521, 6.90385), walk(-0.174497, -4.99695), to(22.1776, 1.90689). Whole distance travelled:22.2594
+
+Step339: From:(22.1776, 1.90689), walk(3.94005, 3.07831), to(26.1177, 4.9852). Whole distance travelled:26.5892
+
+Step340: From:(26.1177, 4.9852), walk(4.09576, -2.86788), to(30.2134, 2.11732). Whole distance travelled:30.2875
+
+Step341: From:(30.2134, 2.11732), walk(-4.82963, -1.2941), to(25.3838, 0.823223). Whole distance travelled:25.3971
+
+Step342: From:(25.3838, 0.823223), walk(-1.37819, -4.80631), to(24.0056, -3.98309). Whole distance travelled:24.3338
+
+Step343: From:(24.0056, -3.98309), walk(-2.6496, 4.24024), to(21.356, 0.257155). Whole distance travelled:21.3576
+
+Step344: From:(21.356, 0.257155), walk(3.34565, -3.71572), to(24.7017, -3.45857). Whole distance travelled:24.9426
+
+Step345: From:(24.7017, -3.45857), walk(2.03368, 4.56773), to(26.7353, 1.10916). Whole distance travelled:26.7583
+
+Step346: From:(26.7353, 1.10916), walk(2.34736, 4.41474), to(29.0827, 5.5239). Whole distance travelled:29.6027
+
+Step347: From:(29.0827, 5.5239), walk(4.95134, -0.695866), to(34.034, 4.82803). Whole distance travelled:34.3748
+
+Step348: From:(34.034, 4.82803), walk(-4.56773, 2.03368), to(29.4663, 6.86171). Whole distance travelled:30.2547
+
+Step349: From:(29.4663, 6.86171), walk(-4.3731, -2.42405), to(25.0932, 4.43767). Whole distance travelled:25.4826
+
+Step350: From:(25.0932, 4.43767), walk(3.53553, -3.53553), to(28.6288, 0.902132). Whole distance travelled:28.643
+
+Step351: From:(28.6288, 0.902132), walk(4.85148, 1.20961), to(33.4802, 2.11174). Whole distance travelled:33.5468
+
+Step352: From:(33.4802, 2.11174), walk(3.00908, 3.99318), to(36.4893, 6.10492). Whole distance travelled:36.9965
+
+Step353: From:(36.4893, 6.10492), walk(-4.97261, 0.522642), to(31.5167, 6.62756). Whole distance travelled:32.206
+
+Step354: From:(31.5167, 6.62756), walk(-1.12476, -4.87185), to(30.3919, 1.75571). Whole distance travelled:30.4426
+
+Step355: From:(30.3919, 1.75571), walk(0.348782, 4.98782), to(30.7407, 6.74353). Whole distance travelled:31.4717
+
+Step356: From:(30.7407, 6.74353), walk(-4.99924, 0.087262), to(25.7415, 6.83079). Whole distance travelled:26.6324
+
+Step357: From:(25.7415, 6.83079), walk(-3.88573, -3.1466), to(21.8558, 3.68419). Whole distance travelled:22.1641
+
+Step358: From:(21.8558, 3.68419), walk(4.3731, 2.42405), to(26.2289, 6.10824). Whole distance travelled:26.9307
+
+Step359: From:(26.2289, 6.10824), walk(4.49397, -2.19186), to(30.7228, 3.91638). Whole distance travelled:30.9714
+
+Step360: From:(30.7228, 3.91638), walk(-3.21394, 3.83022), to(27.5089, 7.74661). Whole distance travelled:28.5788
+
+Step361: From:(27.5089, 7.74661), walk(2.11309, -4.53154), to(29.622, 3.21507). Whole distance travelled:29.7959
+
+Step362: From:(29.622, 3.21507), walk(-4.14519, 2.79596), to(25.4768, 6.01103). Whole distance travelled:26.1763
+
+Step363: From:(25.4768, 6.01103), walk(-0.174497, 4.99695), to(25.3023, 11.008). Whole distance travelled:27.5931
+
+Step364: From:(25.3023, 11.008), walk(-4.45503, 2.26995), to(20.8473, 13.2779). Whole distance travelled:24.7166
+
+Step365: From:(20.8473, 13.2779), walk(-2.42405, 4.3731), to(18.4232, 17.651). Whole distance travelled:25.5142
+
+Step366: From:(18.4232, 17.651), walk(3.07831, -3.94005), to(21.5015, 13.711). Whole distance travelled:25.5011
+
+Step367: From:(21.5015, 13.711), walk(-9.18485e-16, -5), to(21.5015, 8.71098). Whole distance travelled:23.1991
+
+Step368: From:(21.5015, 8.71098), walk(4.90814, 0.954045), to(26.4097, 9.66503). Whole distance travelled:28.1226
+
+Step369: From:(26.4097, 9.66503), walk(-3.5967, 3.47329), to(22.813, 13.1383). Whole distance travelled:26.3258
+
+Step370: From:(22.813, 13.1383), walk(2.11309, -4.53154), to(24.926, 8.60678). Whole distance travelled:26.3701
+
+Step371: From:(24.926, 8.60678), walk(2.57519, 4.28584), to(27.5012, 12.8926). Whole distance travelled:30.3733
+
+Step372: From:(27.5012, 12.8926), walk(3.77355, -3.2803), to(31.2748, 9.61232). Whole distance travelled:32.7186
+
+Step373: From:(31.2748, 9.61232), walk(-4.92404, -0.868241), to(26.3507, 8.74408). Whole distance travelled:27.7637
+
+Step374: From:(26.3507, 8.74408), walk(3.94005, -3.07831), to(30.2908, 5.66577). Whole distance travelled:30.8161
+
+Step375: From:(30.2908, 5.66577), walk(-3.34565, -3.71572), to(26.9452, 1.95005). Whole distance travelled:27.0156
+
+Step376: From:(26.9452, 1.95005), walk(4.80631, 1.37819), to(31.7515, 3.32824). Whole distance travelled:31.9254
+
+Step377: From:(31.7515, 3.32824), walk(4.93844, -0.782172), to(36.6899, 2.54606). Whole distance travelled:36.7781
+
+Step378: From:(36.6899, 2.54606), walk(4.98782, 0.348782), to(41.6777, 2.89485). Whole distance travelled:41.7781
+
+Step379: From:(41.6777, 2.89485), walk(-1.7101, 4.69846), to(39.9676, 7.59331). Whole distance travelled:40.6825
+
+Step380: From:(39.9676, 7.59331), walk(4.60252, 1.95366), to(44.5701, 9.54697). Whole distance travelled:45.5812
+
+Step381: From:(44.5701, 9.54697), walk(4.97261, 0.522642), to(49.5428, 10.0696). Whole distance travelled:50.5557
+
+Step382: From:(49.5428, 10.0696), walk(3.00908, -3.99318), to(52.5518, 6.07643). Whole distance travelled:52.902
+
+Step383: From:(52.5518, 6.07643), walk(1.2941, 4.82963), to(53.8459, 10.9061). Whole distance travelled:54.9393
+
+Step384: From:(53.8459, 10.9061), walk(1.95366, -4.60252), to(55.7996, 6.30353). Whole distance travelled:56.1545
+
+Step385: From:(55.7996, 6.30353), walk(-0.868241, 4.92404), to(54.9313, 11.2276). Whole distance travelled:56.067
+
+Step386: From:(54.9313, 11.2276), walk(3.65677, -3.40999), to(58.5881, 7.81758). Whole distance travelled:59.1074
+
+Step387: From:(58.5881, 7.81758), walk(0.522642, -4.97261), to(59.1107, 2.84497). Whole distance travelled:59.1792
+
+Step388: From:(59.1107, 2.84497), walk(2.7232, -4.19335), to(61.8339, -1.34838). Whole distance travelled:61.8486
+
+Step389: From:(61.8339, -1.34838), walk(2.6496, -4.24024), to(64.4835, -5.58862). Whole distance travelled:64.7253
+
+Step390: From:(64.4835, -5.58862), walk(-4.63592, 1.87303), to(59.8476, -3.71559). Whole distance travelled:59.9629
+
+Step391: From:(59.8476, -3.71559), walk(2.26995, -4.45503), to(62.1176, -8.17062). Whole distance travelled:62.6526
+
+Step392: From:(62.1176, -8.17062), walk(4.98097, -0.435779), to(67.0985, -8.6064). Whole distance travelled:67.6482
+
+Step393: From:(67.0985, -8.6064), walk(4.72759, 1.62784), to(71.8261, -6.97856). Whole distance travelled:72.1644
+
+Step394: From:(71.8261, -6.97856), walk(1.37819, 4.80631), to(73.2043, -2.17225). Whole distance travelled:73.2365
+
+Step395: From:(73.2043, -2.17225), walk(1.79184, -4.6679), to(74.9962, -6.84015). Whole distance travelled:75.3075
+
+Step396: From:(74.9962, -6.84015), walk(4.99924, -0.087262), to(79.9954, -6.92741). Whole distance travelled:80.2948
+
+Step397: From:(79.9954, -6.92741), walk(0.609347, 4.96273), to(80.6048, -1.96468). Whole distance travelled:80.6287
+
+Step398: From:(80.6048, -1.96468), walk(1.54508, -4.75528), to(82.1498, -6.71997). Whole distance travelled:82.4242
+
+Step399: From:(82.1498, -6.71997), walk(-4.63592, -1.87303), to(77.5139, -8.593). Whole distance travelled:77.9888
+
+Step400: From:(77.5139, -8.593), walk(-0.26168, 4.99315), to(77.2522, -3.59985). Whole distance travelled:77.3361
+
+Step401: From:(77.2522, -3.59985), walk(-0.435779, -4.98097), to(76.8165, -8.58083). Whole distance travelled:77.2942
+
+Step402: From:(76.8165, -8.58083), walk(-4.45503, 2.26995), to(72.3614, -6.31087). Whole distance travelled:72.6361
+
+Step403: From:(72.3614, -6.31087), walk(3.65677, 3.40999), to(76.0182, -2.90088). Whole distance travelled:76.0735
+
+Step404: From:(76.0182, -2.90088), walk(4.28584, 2.57519), to(80.304, -0.32569). Whole distance travelled:80.3047
+
+Step405: From:(80.304, -0.32569), walk(-3.53553, 3.53553), to(76.7685, 3.20984). Whole distance travelled:76.8356
+
+Step406: From:(76.7685, 3.20984), walk(-4.99924, -0.087262), to(71.7693, 3.12258). Whole distance travelled:71.8372
+
+Step407: From:(71.7693, 3.12258), walk(3.34565, -3.71572), to(75.1149, -0.593143). Whole distance travelled:75.1173
+
+Step408: From:(75.1149, -0.593143), walk(-4.78152, 1.46186), to(70.3334, 0.868716). Whole distance travelled:70.3388
+
+Step409: From:(70.3334, 0.868716), walk(-4.93844, -0.782172), to(65.3949, 0.0865436). Whole distance travelled:65.395
+
+Step410: From:(65.3949, 0.0865436), walk(-3.71572, 3.34565), to(61.6792, 3.4322). Whole distance travelled:61.7746
+
+Step411: From:(61.6792, 3.4322), walk(-4.6679, -1.79184), to(57.0113, 1.64036). Whole distance travelled:57.0349
+
+Step412: From:(57.0113, 1.64036), walk(-1.87303, 4.63592), to(55.1383, 6.27628). Whole distance travelled:55.4943
+
+Step413: From:(55.1383, 6.27628), walk(-3.47329, -3.5967), to(51.665, 2.67958). Whole distance travelled:51.7344
+
+Step414: From:(51.665, 2.67958), walk(4.98782, -0.348782), to(56.6528, 2.33079). Whole distance travelled:56.7007
+
+Step415: From:(56.6528, 2.33079), walk(0.348782, 4.98782), to(57.0016, 7.31861). Whole distance travelled:57.4695
+
+Step416: From:(57.0016, 7.31861), walk(2.26995, -4.45503), to(59.2716, 2.86358). Whole distance travelled:59.3407
+
+Step417: From:(59.2716, 2.86358), walk(0.954045, -4.90814), to(60.2256, -2.04455). Whole distance travelled:60.2603
+
+Step418: From:(60.2256, -2.04455), walk(4.6679, -1.79184), to(64.8935, -3.83639). Whole distance travelled:65.0068
+
+Step419: From:(64.8935, -3.83639), walk(-4.41474, -2.34736), to(60.4788, -6.18375). Whole distance travelled:60.7941
+
+Step420: From:(60.4788, -6.18375), walk(-4.24024, -2.6496), to(56.2385, -8.83335). Whole distance travelled:56.928
+
+Step421: From:(56.2385, -8.83335), walk(4.78152, -1.46186), to(61.02, -10.2952). Whole distance travelled:61.8824
+
+Step422: From:(61.02, -10.2952), walk(3.88573, 3.1466), to(64.9058, -7.1486). Whole distance travelled:65.2983
+
+Step423: From:(64.9058, -7.1486), walk(4.49397, -2.19186), to(69.3997, -9.34046). Whole distance travelled:70.0255
+
+Step424: From:(69.3997, -9.34046), walk(2.34736, -4.41474), to(71.7471, -13.7552). Whole distance travelled:73.0538
+
+Step425: From:(71.7471, -13.7552), walk(-4.49397, -2.19186), to(67.2531, -15.9471). Whole distance travelled:69.118
+
+Step426: From:(67.2531, -15.9471), walk(4.89074, 1.03956), to(72.1439, -14.9075). Whole distance travelled:73.668
+
+Step427: From:(72.1439, -14.9075), walk(-3.2803, -3.77355), to(68.8636, -18.681). Whole distance travelled:71.3525
+
+Step428: From:(68.8636, -18.681), walk(-4.96273, 0.609347), to(63.9008, -18.0717). Whole distance travelled:66.4071
+
+Step429: From:(63.9008, -18.0717), walk(-0.174497, 4.99695), to(63.7263, -13.0747). Whole distance travelled:65.0538
+
+Step430: From:(63.7263, -13.0747), walk(1.87303, -4.63592), to(65.5994, -17.7107). Whole distance travelled:67.9481
+
+Step431: From:(65.5994, -17.7107), walk(1.79184, -4.6679), to(67.3912, -22.3786). Whole distance travelled:71.0097
+
+Step432: From:(67.3912, -22.3786), walk(3.83022, 3.21394), to(71.2214, -19.1646). Whole distance travelled:73.7548
+
+Step433: From:(71.2214, -19.1646), walk(-3.83022, -3.21394), to(67.3912, -22.3786). Whole distance travelled:71.0097
+
+Step434: From:(67.3912, -22.3786), walk(-0.868241, 4.92404), to(66.523, -17.4545). Whole distance travelled:68.7748
+
+Step435: From:(66.523, -17.4545), walk(-4.75528, -1.54508), to(61.7677, -18.9996). Whole distance travelled:64.6238
+
+Step436: From:(61.7677, -18.9996), walk(-4.99315, -0.26168), to(56.7745, -19.2613). Whole distance travelled:59.9529
+
+Step437: From:(56.7745, -19.2613), walk(-4.96273, -0.609347), to(51.8118, -19.8706). Whole distance travelled:55.4915
+
+Step438: From:(51.8118, -19.8706), walk(2.6496, -4.24024), to(54.4614, -24.1109). Whole distance travelled:59.5599
+
+Step439: From:(54.4614, -24.1109), walk(2.03368, 4.56773), to(56.4951, -19.5431). Whole distance travelled:59.7799
+
+Step440: From:(56.4951, -19.5431), walk(0.868241, -4.92404), to(57.3633, -24.4672). Whole distance travelled:62.3634
+
+Step441: From:(57.3633, -24.4672), walk(-3.47329, -3.5967), to(53.89, -28.0639). Whole distance travelled:60.7595
+
+Step442: From:(53.89, -28.0639), walk(4.93844, -0.782172), to(58.8285, -28.8461). Whole distance travelled:65.5201
+
+Step443: From:(58.8285, -28.8461), walk(4.63592, -1.87303), to(63.4644, -30.7191). Whole distance travelled:70.5081
+
+Step444: From:(63.4644, -30.7191), walk(2.7232, -4.19335), to(66.1876, -34.9124). Whole distance travelled:74.831
+
+Step445: From:(66.1876, -34.9124), walk(4.63592, -1.87303), to(70.8235, -36.7855). Whole distance travelled:79.8069
+
+Step446: From:(70.8235, -36.7855), walk(-0.174497, -4.99695), to(70.649, -41.7824). Whole distance travelled:82.0796
+
+Step447: From:(70.649, -41.7824), walk(-4.87185, -1.12476), to(65.7772, -42.9072). Whole distance travelled:78.5345
+
+Step448: From:(65.7772, -42.9072), walk(4.89074, 1.03956), to(70.6679, -41.8676). Whole distance travelled:82.1392
+
+Step449: From:(70.6679, -41.8676), walk(4.45503, -2.26995), to(75.1229, -44.1376). Whole distance travelled:87.1297
+
+Step450: From:(75.1229, -44.1376), walk(-4.93844, -0.782172), to(70.1845, -44.9198). Whole distance travelled:83.3286
+
+Step451: From:(70.1845, -44.9198), walk(-4.99695, -0.174497), to(65.1875, -45.0943). Whole distance travelled:79.2648
+
+Step452: From:(65.1875, -45.0943), walk(0.782172, -4.93844), to(65.9697, -50.0327). Whole distance travelled:82.7966
+
+Step453: From:(65.9697, -50.0327), walk(0.26168, -4.99315), to(66.2314, -55.0258). Whole distance travelled:86.1072
+
+Step454: From:(66.2314, -55.0258), walk(0.954045, -4.90814), to(67.1854, -59.934). Whole distance travelled:90.0331
+
+Step455: From:(67.1854, -59.934), walk(4.99695, 0.174497), to(72.1824, -59.7595). Whole distance travelled:93.7096
+
+Step456: From:(72.1824, -59.7595), walk(3.5967, -3.47329), to(75.7791, -63.2328). Whole distance travelled:98.6958
+
+Step457: From:(75.7791, -63.2328), walk(-0.868241, 4.92404), to(74.9109, -58.3087). Whole distance travelled:94.9292
+
+Step458: From:(74.9109, -58.3087), walk(-3.99318, 3.00908), to(70.9177, -55.2997). Whole distance travelled:89.9298
+
+Step459: From:(70.9177, -55.2997), walk(0.26168, -4.99315), to(71.1794, -60.2928). Whole distance travelled:93.283
+
+Step460: From:(71.1794, -60.2928), walk(4.97261, -0.522642), to(76.152, -60.8154). Whole distance travelled:97.4558
+
+Step461: From:(76.152, -60.8154), walk(4.97261, 0.522642), to(81.1246, -60.2928). Whole distance travelled:101.076
+
+Finished!
